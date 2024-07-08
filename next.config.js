@@ -18,6 +18,10 @@ module.exports = {
         protocol: 'https',
         hostname: 'storefront1.saleor.cloud',
       },
+      {
+        protocol: 'https',
+        hostname: 'store-rsmwlokk.saleor.cloud',
+      },
     ],
   },
 };
